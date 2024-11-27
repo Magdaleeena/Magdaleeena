@@ -1,13 +1,13 @@
 ## Hi! 👋
 
-### I'm Magdalena 
---
+### ✨ I'm Magdalena ✨
+---
 
 I am a fresh @northcoders graduate in JavaScript
 
 - 🌱 I’m currently learning TypeScript and deepening my React knowledge.
 - 🔭 I’m currently working on a small project.
-- 📫 You can reach me link[https://www.linkedin.com/in/magdalena-janeckova-b4a641134/]
+- 📫 You can reach me [here](https://www.linkedin.com/in/magdalena-janeckova-b4a641134/)
 
 <!--
 **Magdaleeena/Magdaleeena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
