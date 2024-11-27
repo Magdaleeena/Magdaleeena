@@ -10,6 +10,8 @@ I am a fresh @northcoders JavaScript graduate.
 - 🔭 I’m currently working on a small project.
 - 📫 You can reach me [here](https://www.linkedin.com/in/magdalena-janeckova-b4a641134/)
 
+
+[![Magdalena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magdaleeena)](https://github.com/magdaleeena/github-readme-stats)
 ---
 
 <!--
