@@ -1,6 +1,9 @@
+![Famara Cliff](https://github.com/user-attachments/assets/449e2fb4-495a-44ff-9173-7ffcad19b39f)
+
 ## Hi! 👋
 
 ### ✨ I'm Magdalena ✨
+
 #### ✨ Full Stack Junior Software Developer ✨
 ---
 
