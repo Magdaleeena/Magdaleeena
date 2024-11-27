@@ -1,4 +1,4 @@
-![Famara Cliff](https://github.com/user-attachments/assets/449e2fb4-495a-44ff-9173-7ffcad19b39f)
+![Famara Cliff~2](https://github.com/user-attachments/assets/107c27c0-eecb-4573-9f68-b32dee74732c)
 
 ## Hi! 👋
 
