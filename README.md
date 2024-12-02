@@ -4,7 +4,7 @@
 
 ### ✨ I'm Magdalena ✨
 
-#### ✨ Full Stack Junior Software Developer ✨
+#### ✨ Junior Full Stack Developer ✨
 ---
 
 I am a fresh @northcoders JavaScript graduate.
