@@ -14,9 +14,8 @@
 
 #### Skills & Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,postgres,vscode,vite,ubuntu,supabase,nodejs,linux,netlify,github,express,npm,androidstudio,figma, regex,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,postgres,vscode,vite,ubuntu,supabase,nodejs,linux,netlify,github,express,npm,androidstudio,figma,regex,sass)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdaleeena)](https://github.com/magdaleeena/github-readme-stats)
 
 ![Magdalena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magdaleeena&show_icons=true&theme=dark)
 ---
