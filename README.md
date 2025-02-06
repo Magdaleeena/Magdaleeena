@@ -8,13 +8,13 @@
 #### 🚀 A fresh @northcoders JavaScript graduate 🚀
 ---
 
-- 📚 I’m currently learning TypeScript and deepening my React knowledge.
+- 📚 I’m currently learning Python along with TypeScript.
 - 🔭 I’m currently working on a small project alongside Katas.
 - 📫 You can reach me [here](https://www.linkedin.com/in/magdalena-janeckova-b4a641134/)
 
 #### Skills & Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,postgres,vscode,vite,ubuntu,supabase,nodejs,linux,netlify,github,express,npm,androidstudio,figma,regex,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,react,postgres,vscode,vite,ubuntu,supabase,nodejs,linux,netlify,github,express,npm,androidstudio,figma,regex,sass)](https://skillicons.dev)
 
 
 ![Magdalena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magdaleeena&show_icons=true&theme=dark)
