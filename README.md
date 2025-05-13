@@ -4,13 +4,13 @@
 
 ### ✨ I'm Magdalena ✨
 
-#### 💻 Junior Full Stack Developer | 🎓 @northcoders JavaScript graduate | 🚀 Freelance Tech Creator 
+#### 💻  Junior Full Stack Developer | 🎓  Northcoders JavaScript graduate | 🚀  Freelance Tech Creator 
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a **Junior Full Stack Developer** with a passion for writing clean, modern code that makes users' lives easier. After graduating from the @Northcoders JavaScript bootcamp, I’ve delivered polished freelance projects, including **Eventico**, a professional-grade event platform.
+I'm a **Junior Full-Stack Developer** with a passion for writing clean, modern code that makes users' lives easier. After graduating from the Northcoders JavaScript bootcamp, I’ve delivered polished freelance projects, including **Eventico**, a professional-grade event platform.
 
 Currently levelling up in **TypeScript** and **Python**, and always exploring smarter ways to build fast, scalable apps.
 
