@@ -50,7 +50,7 @@ Powered by **Node.js**, **Express**, and **MongoDB**, the backend exposes a REST
 
 #### Skills & Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,mongodb,tailwind,python,html,css,react,postgres,vscode,vite,ubuntu,supabase,nodejs,linux,netlify,github,express,npm,androidstudio,figma,regex,sass,java,intelliJ)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,mongodb,tailwind,python,html,css,react,postgres,vscode,vite,ubuntu,supabase,nodejs,linux,netlify,github,express,npm,androidstudio,figma,regex,sass,java)](https://skillicons.dev)
 
 
 ![Magdalena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magdaleeena&show_icons=true&theme=dark)
