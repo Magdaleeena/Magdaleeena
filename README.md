@@ -53,8 +53,7 @@ Powered by **Node.js**, **Express**, and **MongoDB**, the backend exposes a REST
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,angular,vue,js,java,python,html,css,mongodb,tailwind,react,postgres,vscode,vite,ubuntu,supabase,nodejs,linux,netlify,github,express,npm,androidstudio,figma,regex,sass)](https://skillicons.dev)
 
 
-![Magdalena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magdaleeena&show_icons=true&theme=dark)
-[![Magdalena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magdaleeena&show_icons=true&theme=dark)](https://github.com/Magdaleeena)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Magdaleeena&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
