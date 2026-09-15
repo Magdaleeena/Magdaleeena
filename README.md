@@ -4,48 +4,31 @@
 
 ### ✨ I'm Magdalena ✨
 
-#### 💻  Junior Full Stack Developer | 🎓  Northcoders JavaScript graduate | 🚀  Freelance Tech Creator 
+#### 💻  Associate Software Engineer| 🎓  Northcoders JavaScript graduate 
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a **Junior Full-Stack Developer** with a passion for writing clean, modern code that makes users' lives easier. After graduating from the Northcoders JavaScript bootcamp, I’ve delivered polished freelance projects, including **Eventico**, a professional-grade event platform.
+I'm an **Associate Software Engineer** currently working across the full stack with **C#, .NET, TypeScript, and Angular**.
 
-Currently levelling up in **TypeScript** and **Python**, and always exploring smarter ways to build fast, scalable apps.
+I enjoy writing clean, maintainable code and building applications that are simple, reliable, and useful. Before moving into my current role, I graduated from the **Northcoders JavaScript bootcamp** and worked on a range of personal and freelance projects, including **Eventico**, a full-stack event platform.
 
 ---
 
-## 💼 Freelance Project – [Eventico](https://github.com/Magdaleeena/Eventico_frontend)
+## 💼 Selected Project – [Eventico](https://github.com/Magdaleeena/Eventico_frontend)
 
-**Eventico** is a full-featured, mobile-friendly event discovery platform built for a real-world freelance client. It enables users to browse, host, and manage events with secure access and admin-level control.
+**Eventico** is a full-stack event discovery and management platform originally built for a freelance client.
 
-### 🚀 Tech Summary
+Built with **React, Node.js, Express, MongoDB, TailwindCSS, and JWT authentication**, with features including event creation, registration, protected routes, role-based access, and admin functionality.
 
-**Frontend**  
-Built with **React**, **Vite**, and **TailwindCSS**, the frontend delivers a fast, responsive, and accessible UI that mirrors real platforms like Eventbrite.
-
-- 🔄 Dynamic interface with protected routes  
-- 🎨 Mobile-first design with TailwindCSS  
-- 🔍 Event filtering, browsing & registration  
-- 🌍 Deployed via Netlify  
-🔗 [Frontend Repo](https://github.com/Magdaleeena/Eventico_frontend)
-
-**Backend**  
-Powered by **Node.js**, **Express**, and **MongoDB**, the backend exposes a RESTful API supporting secure, role-based access and robust event management.
-
-- 🔐 JWT-based authentication  
-- 📅 Full CRUD for events  
-- 🧑‍💼 Admin role control  
-- 🧪 Tested with Jest & Supertest  
-- 📁 MongoDB + Mongoose persistence  
-🔗 [Backend Repo](https://github.com/Magdaleeena/Eventico_backend)
+[Frontend](https://github.com/Magdaleeena/Eventico_frontend) · [Backend](https://github.com/Magdaleeena/Eventico_backend)
 
 ---
 
 ## 🧭 Let’s Connect
 
-📫 [LinkedIn](https://www.linkedin.com/in/magdalena-janeckova-b4a641134/)  
+📫 [LinkedIn](https://www.linkedin.com/in/magdalena-janeckova/)  
 
 
 #### Skills & Languages
