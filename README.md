@@ -4,7 +4,7 @@
 
 ### ✨ I'm Magdalena ✨
 
-#### 💻  Associate Software Engineer| 🎓  Northcoders JavaScript graduate 
+#### 💻  Associate Software Engineer | 🎓  Northcoders JavaScript graduate 
 
 ---
 
